@@ -5,8 +5,7 @@ import { Title } from './styles';
 export default function Main() {
   return (
     <Title>
-      MAI
-      <small>Small text</small>
+      MAIN
     </Title>
   );
 }
